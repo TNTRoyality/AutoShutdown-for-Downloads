@@ -41,4 +41,10 @@ MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
+# Changelog
+
+## v1.0.0 - 2025-07-22
+- Initial beta release with shutdown on Steam download finish.
+- Countdown and cancel button.
+
 Made with ❤️ by wilidretsi
