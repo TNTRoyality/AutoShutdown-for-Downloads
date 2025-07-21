@@ -1,6 +1,6 @@
 # Steam Auto Shutdown
 
-**Automatically shuts down your PC when Steam downloads finish — with a countdown and cancel option!**
+**Automatically shuts down your PC when Steam downloads finish with a countdown and cancel option!**
 
 ---
 
