@@ -1,43 +1,43 @@
 # Steam Auto Shutdown (Beta)
 
-A simple app that shuts down your PC automatically after Steam downloads finish.  
-Includes a 10-second countdown and a cancel button.
+A simple app that automatically shuts down your PC once Steam finishes downloading.  
+It includes a 10-second countdown with a cancel button, so you always stay in control.
 
 ---
 
 ## Features
 
-- Detects when Steam download folder is empty  
-- 10-second shutdown countdown with cancel option  
-- Lightweight GUI with Tkinter  
-- Open source and easy to tweak
+- Detects when your Steam download folder is empty  
+- 10-second shutdown countdown with an easy cancel option  
+- Lightweight and clean GUI built with Tkinter  
+- Open source and easy to customize
 
 ---
 
 ## How to use
 
-1. Run the `auto-shutdown.exe` in [Releases](https://github.com/wilidretsi/AutoShutdown-for-Downloads/releases/tag/v1.0.0) (needs Python).  
-2. The app watches your Steam downloads folder.  
-3. When downloads are done, countdown starts and PC shuts down unless canceled.
+1. Download and run the [`auto-shutdown.exe`](https://github.com/wilidretsi/AutoShutdown-for-Downloads/releases/tag/v1.0.0) from the Releases (no need to install Python).  
+2. The app monitors your Steam downloads folder quietly in the background.  
+3. When downloads finish, a countdown starts and your PC will shut down — unless you cancel it.
 
 ---
 
 ## Beta Notice
 
-This is a beta version — bugs might happen. Use at your own risk!
+Heads up! This is a beta version, so some bugs might pop up.
 
 ---
 
 ## Want to help?
 
-Found a bug or have ideas? Open an issue or a pull request here on GitHub.
+Found a bug or have ideas to improve it? Open an issue or a pull request here on GitHub — every bit of feedback helps!
 
 ---
 
 ## License
 
-MIT License — see the [LICENSE](LICENSE) file.
+MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made by wilidretsi
+Made with ❤️ by wilidretsi
