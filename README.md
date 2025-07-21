@@ -16,7 +16,7 @@ Includes a 10-second countdown and a cancel button.
 
 ## How to use
 
-1. Run the `steam_auto_shutdown.py` script (needs Python).  
+1. Run the `auto-shutdown.exe` in [Releases](https://github.com/tu_usuario/tu_repositorio/releases) (needs Python).  
 2. The app watches your Steam downloads folder.  
 3. When downloads are done, countdown starts and PC shuts down unless canceled.
 
@@ -36,7 +36,7 @@ Found a bug or have ideas? Open an issue or a pull request here on GitHub.
 
 ## License
 
-MIT License — see the LICENSE file.
+MIT License — see the [LICENSE](LICENSE) file.
 
 ---
 
