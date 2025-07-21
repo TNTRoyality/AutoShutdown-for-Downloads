@@ -7,7 +7,7 @@
 ## What is this?
 
 Steam Auto Shutdown is a lightweight app that monitors your Steam download folder.  
-Once all downloads are finished, it starts a 10-second countdown and then shuts down your PC automatically — unless you cancel it.
+Once all downloads are finished, it starts a 10-second countdown and then shuts down your PC automatically, unless you cancel it.
 
 ---
 
