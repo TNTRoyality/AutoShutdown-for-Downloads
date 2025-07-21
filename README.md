@@ -1,6 +1,7 @@
 # Steam Auto Shutdown (Beta)
 
 A simple app that automatically shuts down your PC once Steam finishes downloading.  
+Perfect for overnight downloads — so you don’t have to worry about leaving your PC on all night.  
 It includes a 10-second countdown with a cancel button, so you always stay in control.
 
 ---
