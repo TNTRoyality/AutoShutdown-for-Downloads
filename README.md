@@ -13,6 +13,10 @@ It includes a 10-second countdown with a cancel button, so you always stay in co
 - Lightweight and clean GUI built with Tkinter  
 - Open source and easy to customize
 
+![App image](./images/app1.png)
+
+![App image](./images/app2.png)
+
 ---
 
 ## How to use
